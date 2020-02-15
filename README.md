@@ -1,3 +1,3 @@
-# ShootTheHellUP
+# SSuperUltraSpaceInvaders
 
-https://haishuilan.github.io/ShootTheHellUP/index.html
+https://haishuilan.github.io/SuperUltraSpaceInvaders/index.html
