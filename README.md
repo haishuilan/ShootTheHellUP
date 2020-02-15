@@ -1,3 +1,3 @@
 # SuperUltraSpaceInvaders
 
-https://haishuilan.github.io/SuperUltraSpaceInvaders/index.html
+https://haishuilan.github.io/SuperUltraSpaceInvaders/
